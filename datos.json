@@ -1,0 +1,6 @@
+[
+    {"text":"Amo este bocata de chorizo","label":"pos"},
+    {"text":"Genial me gusta esta tv 4k","label":"pos"},
+    {"text":"Odio este canal de disney","label":"neg"},
+    {"text":"No vuelvo a comer comida vegana :(","label":"neg"}
+]
